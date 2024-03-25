@@ -3,11 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=atticuszz&label=Profile%20views&color=0e75b6&style=flat" alt="atticuszz" />
 </p>
 
-- 🔭 I’m currently working on **deep learning projects and building web applications**
-- 🌱 I’m currently learning **Advanced Python, FastAPI, and Vue.js**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 🤝 I’m looking for help with **complex deep learning models**
-- 💬 Ask me about **Python, FastAPI, PyQt, and Vue.js**
+- 🔭 I’m currently working on **deep learning projects and 3D-reconstruction**
+- 🌱 I’m currently learning **Advanced Python, FastAPI, Pytorch, CUDA**
+- 💬 Ask me about **Python, FastAPI, Pytorch**
 - 📫 How to reach me: **zhouge1831@gmail.com**
 - ⚡ Fun fact: **I'm also an analog photography enthusiast and a sports aficionado**
 

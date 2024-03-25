@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on **computer vision like deep learning and 3D-reconstruction**
-- 🌱 I’m currently learning **Advanced Python, FastAPI, Pytorch, CUDA**
+- 🌱 I’m currently learning **Advanced Python, FastAPI, Pytorch, CUDA, TypeScript, C++**
 - 💬 Ask me about **Python, FastAPI, Pytorch**
 - 📫 How to reach me: **zhouge1831@gmail.com**
 - ⚡ Fun fact: **I'm also an analog photography enthusiast and a sports aficionado**

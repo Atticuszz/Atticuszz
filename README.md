@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=atticuszz&label=Profile%20views&color=0e75b6&style=flat" alt="atticuszz" />
 </p>
 
-- 🔭 I’m currently working on **deep learning projects and 3D-reconstruction**
+- 🔭 I’m currently working on **computer vision like deep learning and 3D-reconstruction**
 - 🌱 I’m currently learning **Advanced Python, FastAPI, Pytorch, CUDA**
 - 💬 Ask me about **Python, FastAPI, Pytorch**
 - 📫 How to reach me: **zhouge1831@gmail.com**
